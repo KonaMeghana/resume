@@ -1,37 +1,37 @@
 [3:33 PM, 5/18/2021] Charitha@topper: # Resume
-## Yamini Naga Satya Pilla
+## Kona.Mahalakshmi Meghana
 ==================
 ### Personal details
-- Name:Yamini Naga Satya Pilla<br>
-- Mail Id:yamininagasatya@gmail.com<br>
-- Phone:+916305620599 <br>
-- Address: Vijayawada <br>
+- Name:Kona Mahalakshmi Meghana<br>
+- Mail Id:konamahalakshmimeghana@gmail.com<br>
+- Phone:+919490887094 <br>
+- Address: Banigandlapadu <br>
 ### Education Details :
 *B-Tech*
 ### *B-Tech*
 - College Name: _Mic College_<br>
 - Branch : Computer Science Engineering<br>
 - Year Of Study: 2018 - 2022<br>
-- Precentage : 83%<br>
+- Precentage : 77%<br>
 - Address : Vijayawada<br>
 *Intermediate*
 ### *Inter*
 - College Name: _Sri Chaitanya Jr College_<br>
 - Branch : MPC<br>
 - Year Of Study: 2016 - 2018<br>
-- Precentage : 95.9%<br>
+- Precentage : 80.9%<br>
 - Address : Vijayawada<br>
 *SSC*
 ### *SSC*
-- SchoolName: _Sri Teleprolu Bapanaiah English Medium High School_<br>
+- SchoolName: _Sri Chaitanya Techno School_<br>
 - Year Of Study: 2016<br>
-- Precentage : 93%<br>
+- Precentage : 90%<br>
 - Address : Vijayawada<br>
 
 *Skills*
 ### *Skills*
 
-- Python - 100%
+- Python - 90%
 
 - C Programming -90%
 
@@ -45,7 +45,7 @@ I Want to become a Software Developer in `Python`
 
 - Reading a Newspaper or Books<br>
 - Listining Music<br>
-- Playing Cricket<br>
+- Playing Tennis<br>
 - Playing Chess<br>
 
 *Strengths & Weaknesses*
