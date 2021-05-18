@@ -1,4 +1,4 @@
-[3:33 PM, 5/18/2021] Charitha@topper: # Resume
+
 ## Kona.Mahalakshmi Meghana
 ==================
 ### Personal details
